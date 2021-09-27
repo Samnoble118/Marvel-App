@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Samnoble118/Marvel-App.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Samnoble118/Marvel-App.git/static/js/main.e0cb3c2c.chunk.js",
+    "main.js.map": "/Samnoble118/Marvel-App.git/static/js/main.e0cb3c2c.chunk.js.map",
+    "runtime-main.js": "/Samnoble118/Marvel-App.git/static/js/runtime-main.f2482e05.js",
+    "runtime-main.js.map": "/Samnoble118/Marvel-App.git/static/js/runtime-main.f2482e05.js.map",
+    "static/js/2.d1540715.chunk.js": "/Samnoble118/Marvel-App.git/static/js/2.d1540715.chunk.js",
+    "static/js/2.d1540715.chunk.js.map": "/Samnoble118/Marvel-App.git/static/js/2.d1540715.chunk.js.map",
+    "static/js/3.30368c69.chunk.js": "/Samnoble118/Marvel-App.git/static/js/3.30368c69.chunk.js",
+    "static/js/3.30368c69.chunk.js.map": "/Samnoble118/Marvel-App.git/static/js/3.30368c69.chunk.js.map",
+    "index.html": "/Samnoble118/Marvel-App.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Samnoble118/Marvel-App.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d1540715.chunk.js.LICENSE.txt": "/Samnoble118/Marvel-App.git/static/js/2.d1540715.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Samnoble118/Marvel-App.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2482e05.js",
+    "static/js/2.d1540715.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e0cb3c2c.chunk.js"
+  ]
+}
